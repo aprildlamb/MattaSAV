@@ -1,0 +1,29 @@
+Site,Label,Trt,number,type
+3,A2,Val,10,Val
+3,A3,Val + Lilly,13,Val
+3,A3,Val + Lilly,3,lilly
+2,B3,Val + Lilly,9,Val
+2,B3,Val + Lilly,23,lilly
+2,B4,Najas + Lilly,24,lilly
+2,B5,All,0,Val
+2,B5,All,11,lilly
+2,B6,Lilly,16,lilly
+8,D4,Najas + Lilly,7,lilly
+8,D5,All,11,Val
+8,D5,All,0,lilly
+8,D6,Lilly,10,lilly
+3,A4,Najas + Lilly,0,lilly
+3,A5,All,0,Val
+3,A5,All,0,lilly
+3,A6,Lilly,0,lilly
+2,B2,Val,0,Val
+12,C2,Val,0,Val
+12,C3,Val + Lilly,0,Val
+12,C3,Val + Lilly,0,lilly
+12,C4,Najas + Lilly,0,lilly
+12,C5,All,0,Val
+12,C5,All,0,lilly
+12,C6,Lilly,0,lilly
+8,D2,Val,0,Val
+8,D3,Val + Lilly,0,Val
+8,D3,Val + Lilly,0,lilly

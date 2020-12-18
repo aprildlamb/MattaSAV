@@ -1,0 +1,41 @@
+Site,Label,Trt,Biomass_type,Biomass,Biomass_corrected,PlantID,,
+3,A2,Val,Above,85.82,3.4328,Val,,Above
+3,A2,Val,Below_shoots,3.35,0.134,Val,Val,94.7925
+3,A2,Val,Below_roots,7.41,0.2964,Val,Najas,6.84
+3,A2,Val,Total,96.58,3.8632,Val,,
+8,D5,All,Above,207.13,18.83,Val,,Below
+8,D5,All,Below_shoots,24.51,2.228181818,Val,Val,15.19375
+8,D5,All,Below_roots,21.63,1.966363636,Val,Nym,
+8,D5,All,Total,253.27,23.02454545,Val,Najas,
+12,C2,Val,Above,0,0,Val,Val shoots,16.00625
+12,C2,Val,Below_shoots,5.98,0.2392,Val,,
+12,C2,Val,Below_roots,2.14,0.0856,Val,,
+12,C2,Val,Total,8.12,0.3248,Val,,All
+8,D2,Val,Above,44.98,1.7992,Val,,125.9925
+8,D2,Val,Below_shoots,9.11,0.3644,Val,,
+8,D2,Val,Below_roots,8.75,0.35,Val,,
+8,D2,Val,Total,62.84,2.5136,Val,,
+8,D3,Val + Lilly,Above,0,0,Val,,
+8,D3,Val + Lilly,Below_shoots,20.16,0.916363636,Val,,
+8,D3,Val + Lilly,Below_roots,6.94,0.315454545,Val,,
+8,D3,Val + Lilly,Total,27.1,1.231818182,Val,,
+8,D4,Najas + Lilly,Above,6.84,0.310909091,Najas,,
+8,D4,Najas + Lilly,Below_shoots,0,0,Najas,,
+8,D4,Najas + Lilly,Below_roots,0.54,0.024545455,Najas,,
+8,D4,Najas + Lilly,Total,7.38,0.335454545,Najas,,
+2,B2,Val,Above,222.33,8.8932,Val,,
+2,B2,Val,Below_shoots,27.18,1.0872,Val,,
+2,B2,Val,Below_roots,30.44,1.2176,Val,,
+2,B2,Val,Total,279.95,11.198,Val,,
+3,A3,Val + Lilly,Above,93.6,4.254545455,Val,,
+3,A3,Val + Lilly,Below_shoots,6.2,0.281818182,Val,,
+3,A3,Val + Lilly,Below_roots,17.34,0.788181818,Val,,
+3,A3,Val + Lilly,Total,117.14,5.324545455,Val,,
+2,B3,Val + Lilly,Above,104.48,4.749090909,Val,,
+2,B3,Val + Lilly,Below_shoots,31.56,1.434545455,Val,,
+2,B3,Val + Lilly,Below_roots,26.9,1.222727273,Val,,
+2,B3,Val + Lilly,Total,162.94,7.406363636,Val,,
+12,C3,Val + Lilly,Above,0,0,Lilly,,
+12,C3,Val + Lilly,Below_shoots,0,0,Lilly,,
+12,C3,Val + Lilly,Below_roots,3.32,3.32,Lilly,,
+12,C3,Val + Lilly,Total,3.32,3.32,Lilly,,
